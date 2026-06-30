@@ -39,7 +39,6 @@ Producto buscarProducto(char codigo[]){
     return producto;
 }
 
-/* NUEVA FUNCIÓN */
 void actualizarInventario(char codigo[], int cantidadVendida){
 
     FILE *archivo;
